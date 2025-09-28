@@ -1,5 +1,5 @@
 # 📊 Dashboard Design  
-**Task 4 – Using Tableau (Video Games Sales Dataset)**  
+**Task 3 – Using Tableau (Video Games Sales Dataset)**  
 
 ---
 
